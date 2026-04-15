@@ -1,0 +1,6 @@
+[submodule "humanizer"]
+	path = humanizer
+	url = https://github.com/blader/humanizer.git
+[submodule "visual-explainer"]
+	path = visual-explainer
+	url = https://github.com/nicobailon/visual-explainer.git
